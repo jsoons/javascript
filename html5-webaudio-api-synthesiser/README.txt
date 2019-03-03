@@ -1,0 +1,5 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/w3devcampus/pen/oBRVgv.
+
+ Whilst looking into HTML5, in particular APIs that can be used with the new specification, I came across the Web Audio API. In spite of it's current limited compatibility with browsers coupled with bugs and problems in the only supported browser (chrome), I was inspired by the potential this API had. I set myself the goal of making a sound in the browser. At first though, I didn't know enough about the API to know what to search for to get the results I desired; however, I persevered and started to discover how to properly use/manipulate the API.
+
+It wasn't long before I got a tone, but felt I couldn't leave it as it was. I started tweaking the code and, as is the case with many of my personal projects, things escalated quickly. It wasn't long before I had the remnants of a keyboard, rudimentary as it was. Sounds were made by pushing form buttons and there were no synthesis controls. However, with a little tweaking to the code, some styling here and there I programmed this.
