@@ -37,3 +37,12 @@ function drawMario(indexImage) {
   var offset = indexImage * 24;
   divElem.style.backgroundPosition  = offset + "px";
 }
+
+function animateSprite() {
+  // for(i=0;i<24;i++) {
+  //   divElem.style.backgroundPosition++; 
+  //   console.log('i>>'+i);
+  // }
+  divElem.style.backgroundPosition=parseInt(divElem.style.backgroundPosition)+1+'px center';
+
+}
